@@ -1,1 +1,1 @@
-# ME525-smart-weather-clock
+# smart-weather-clock
